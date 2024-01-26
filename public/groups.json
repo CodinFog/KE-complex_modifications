@@ -216,7 +216,10 @@
         {
           "path": "json/ru_keyboard_remapping_small_yu-on-close_bracket.json",
           "extra_description_path": "extra_descriptions/ru_keyboard_remapping_small_yu-on-close_bracket.json.html"
-        }
+        },
+        {
+          "path": "json/Double_tap_shift_to_caps_lock_single_shift_caps_off.json", // required
+        }        
       ]
     },
     {
